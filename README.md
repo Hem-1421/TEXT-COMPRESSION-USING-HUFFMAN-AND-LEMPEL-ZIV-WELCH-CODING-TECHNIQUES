@@ -1,1 +1,3 @@
 # TEXT-COMPRESSION-USING-HUFFMAN-AND-LEMPEL-ZIV-WELCH-CODING-TECHNIQUES
+
+In this project, performed two different algorithms for text compression namely, Huffman coding and Lempel-Ziv-Welch coding. The objective of such coding on the text data is to reduce the amount of space and hence the time it will take for transmission. The comparison is done by obtaining the efficiency of both the coding algorithm based on compression ratio on various text length inputs and also done performance analysis for variable length Huffman encoding by calculating the average length, source entropy and efficiency of the algorithm.
